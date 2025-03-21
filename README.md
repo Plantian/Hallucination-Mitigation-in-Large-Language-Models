@@ -2,7 +2,7 @@
 **At first, I wanna thanks for contributions of FDU question sets HalluQa**
 
 ## File Explanations:
-## List:
+## List of Evaluations files:
 - HalluQA-main\calculate_metrics.py is for evaluating the *result of deepseek output answers*.
 - HalluQA-main\calculate_metrics_mc.py is for evaluting the *multiple choice reponse* of deepseek output answer.
 - deepseek(7b) responses(mc).json file is for *saving answer from deepseek*.
